@@ -22,5 +22,5 @@ Driven by curiosity and continuous learning, I aim to bridge the gap between dev
 ---
 
 ### 📫 How to reach me
-- [LinkedIn](https://github.com/AdiJadhav1608)  
+- [LinkedIn](https://www.linkedin.com/in/aditya-jadhav-718087339/)  
 - 📧 adijadhav8446@gmail.com
