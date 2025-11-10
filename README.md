@@ -22,5 +22,9 @@ Driven by curiosity and continuous learning, I aim to bridge the gap between dev
 ---
 
 ### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/aditya-jadhav-718087339/)  
-- 📧 adijadhav8446@gmail.com
+
+📍 **Location:** Hinjewadi, Pune  
+📧 **Email:** [adijadhav8446@gmail.com](mailto:adijadhav8446@gmail.com)  
+🌐 **GitHub:** [https://github.com/AdiJadhav1608](https://github.com/AdiJadhav1608)  
+🐳 **Docker Hub:** [https://hub.docker.com/u/adijadhav8446](https://hub.docker.com/u/adijadhav8446)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/aditya-jadhav-718087339](https://www.linkedin.com/in/aditya-jadhav-718087339)
