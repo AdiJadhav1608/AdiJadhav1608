@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-💻 I am a Cloud & DevOps Engineer skilled in designing, deploying, and managing cloud infrastructure using AWS, Docker, Kubernetes, Terraform, Git, Linux, Jenkins, Maven, SonarQube, Datadog, and CI/CD automation. I enjoy working on real-world problems, improving system performance, and automating repetitive tasks to increase efficiency and reliability.
+💻 Cloud & DevOps Engineer with hands-on experience in AWS, Docker, Kubernetes, Terraform, Linux, Git, and CI/CD automation. I design and manage scalable cloud infrastructure, containerize applications, and deploy reliable microservices using best DevOps practices.
 
-I have hands-on experience in creating scalable cloud environments, containerizing applications, and deploying microservices on Kubernetes with best practices around networking, security, and monitoring. I actively use Terraform to manage Infrastructure as Code and ensure consistent, reproducible environments across development and production.
+I specialize in Infrastructure as Code with Terraform, building automated CI/CD pipelines using Jenkins and GitHub Actions, and maintaining high code quality with Maven and SonarQube. I focus on improving deployment speed, system reliability, and operational efficiency through automation.
 
-My work also includes implementing CI/CD pipelines using Jenkins and GitHub Actions to automate build, test, and deployment workflows. I focus on making deployments faster, more reliable, and easier to manage. I’m passionate about setting up automated quality checks through Maven, SonarQube, and other tools to maintain high development standards.
+Passionate about cloud-native technologies, monitoring, and observability using Datadog and AWS CloudWatch. I enjoy solving real-world problems, collaborating with teams, and continuously learning to build secure, scalable, and production-ready systems.
 
-I enjoy exploring cloud-native technologies and monitoring systems using Datadog and AWS CloudWatch, ensuring systems stay observable, secure, and healthy. I believe in continuous learning, and I consistently build new projects, document my learning, and stay updated with industry trends in the DevOps and cloud ecosystem.
-
-Beyond technical skills, I enjoy solving complex problems, collaborating with teams, and building efficient workflows that reduce manual effort and increase operational stability. My goal is to deliver solutions that are scalable, maintainable, and aligned with business objectives.
-
-I am currently seeking opportunities in Cloud, DevOps, and SRE roles where I can contribute to impactful projects, grow with a strong engineering team, and expand my expertise in automation, cloud architecture, and modern DevOps practices. I’m excited to take on challenges that push me to learn more and deliver meaningful results. 
+🚀 Actively seeking Cloud, DevOps, or SRE opportunities to contribute, grow, and deliver impactful solutions.
 
 ---
 
