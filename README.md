@@ -1,38 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+💻 Cloud & DevOps Engineer with hands-on experience in AWS, Docker, Kubernetes, Terraform, Linux, Git, and CI/CD automation. I design and manage scalable cloud infrastructure, containerize applications, and deploy reliable microservices using best DevOps practices.<br><br>I specialize in Infrastructure as Code with Terraform, building automated CI/CD pipelines using Jenkins and GitHub Actions, and maintaining high code quality with Maven and SonarQube. I focus on improving deployment speed, system reliability, and operational efficiency through automation.<br><br>Passionate about cloud-native technologies, monitoring, and observability using Datadog and AWS CloudWatch. I enjoy solving real-world problems, collaborating with teams, and continuously learning to build secure, scalable, and production-ready systems.<br><br>🚀 Actively seeking Cloud, DevOps, or SRE opportunities to contribute, grow, and deliver impactful solutions.
 
-💻 I am a Cloud & DevOps Engineer skilled in designing, deploying, and managing cloud infrastructure using AWS, Docker, Kubernetes, Terraform, Git, Linux, Jenkins, Maven, SonarQube, Datadog, and CI/CD automation. I enjoy working on real-world problems, improving system performance, and automating repetitive tasks to increase efficiency and reliability.
 
-I have hands-on experience in creating scalable cloud environments, containerizing applications, and deploying microservices on Kubernetes with best practices around networking, security, and monitoring. I actively use Terraform to manage Infrastructure as Code and ensure consistent, reproducible environments across development and production.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aditya-jadhav-718087339/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aditya Jadhav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adijadhav8446@gmail.com) 
 
-My work also includes implementing CI/CD pipelines using Jenkins and GitHub Actions to automate build, test, and deployment workflows. I focus on making deployments faster, more reliable, and easier to manage. I’m passionate about setting up automated quality checks through Maven, SonarQube, and other tools to maintain high development standards.
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AdiJadhav1608&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AdiJadhav1608&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiJadhav1608&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-I enjoy exploring cloud-native technologies and monitoring systems using Datadog and AWS CloudWatch, ensuring systems stay observable, secure, and healthy. I believe in continuous learning, and I consistently build new projects, document my learning, and stay updated with industry trends in the DevOps and cloud ecosystem.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AdiJadhav1608&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Beyond technical skills, I enjoy solving complex problems, collaborating with teams, and building efficient workflows that reduce manual effort and increase operational stability. My goal is to deliver solutions that are scalable, maintainable, and aligned with business objectives.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I am currently seeking opportunities in Cloud, DevOps, and SRE roles where I can contribute to impactful projects, grow with a strong engineering team, and expand my expertise in automation, cloud architecture, and modern DevOps practices. I’m excited to take on challenges that push me to learn more and deliver meaningful results. 
-
----
-
-### 🛠️ Skills & Tools
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)  
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)  
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AdiJadhav1608&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AdiJadhav1608&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 How to reach me
-
-📍 **Location:** Hinjewadi, Pune  
-📧 **Email:** [adijadhav8446@gmail.com](mailto:adijadhav8446@gmail.com)  
-🌐 **GitHub:** [https://github.com/AdiJadhav1608](https://github.com/AdiJadhav1608)  
-🐳 **Docker Hub:** [https://hub.docker.com/u/adijadhav8446](https://hub.docker.com/u/adijadhav8446)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/aditya-jadhav-718087339](https://www.linkedin.com/in/aditya-jadhav-718087339)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
