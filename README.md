@@ -1,12 +1,11 @@
 ## Hi there 👋
+💻 Cloud & DevOps Engineer with 1+ year of hands-on experience designing, automating, and managing scalable cloud infrastructure on AWS ☁️. Skilled in Terraform 🏗️, Docker 🐳, Kubernetes (EKS) ⚙️, CI/CD pipelines 🔁 (Jenkins, GitHub Actions), and GitOps 🚀 using ArgoCD to deliver reliable, zero-downtime deployments.
 
-💻 Cloud & DevOps Engineer with hands-on experience in AWS, Docker, Kubernetes, Terraform, Linux, Git, and CI/CD automation. I design and manage scalable cloud infrastructure, containerize applications, and deploy reliable microservices using best DevOps practices.
+🛠️ Experienced in Infrastructure as Code, containerized microservices, monitoring with CloudWatch 📊 and Prometheus 📈, and automating operational tasks using Bash & Linux 🐧 to improve system reliability, performance, and cost efficiency.
 
-I specialize in Infrastructure as Code with Terraform, building automated CI/CD pipelines using Jenkins and GitHub Actions, and maintaining high code quality with Maven and SonarQube. I focus on improving deployment speed, system reliability, and operational efficiency through automation.
+🎯 Passionate about cloud-native technologies, automation, and building secure, production-ready systems aligned with business goals.
 
-Passionate about cloud-native technologies, monitoring, and observability using Datadog and AWS CloudWatch. I enjoy solving real-world problems, collaborating with teams, and continuously learning to build secure, scalable, and production-ready systems.
-
-🚀 Actively seeking Cloud, DevOps, or SRE opportunities to contribute, grow, and deliver impactful solutions.
+🚀 Actively seeking opportunities in Cloud, DevOps, or SRE roles to contribute to impactful projects and grow with a strong engineering team.
 
 ---
 
